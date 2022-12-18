@@ -8,7 +8,7 @@ class GoodProfile extends React.Component {
     }
     
     render() {
-        const{ user}= this.props;
+        const{ good }= this.props;
         return(
             <div>
             <div class="main-content">
